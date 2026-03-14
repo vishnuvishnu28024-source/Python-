@@ -1,0 +1,12 @@
+# Diamond Arrow Pattern Program
+print("     *")
+print("    **")
+print("   ***")
+print("  ****")
+print(" *************")
+print("**************")
+print(" *************")
+print("  ****")
+print("   ***")
+print("    **")
+print("     *")
