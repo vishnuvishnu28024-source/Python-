@@ -1,0 +1,6 @@
+print("*"*30)
+print("*        VISHNU              *")
+print("*        Student             *")
+print("*   Phone:8667638521         *")
+print("*  Email:vishnu@gmail.com    *")
+print("*" *30)     
